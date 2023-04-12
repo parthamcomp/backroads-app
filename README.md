@@ -13,6 +13,10 @@ Made in: ReactJS
 3. npm start
 4. Navigate to http://localhost:3000/
 
+### LIVE SITE
+
+https://backroads-app-pm.netlify.app/
+
 ### APP PREVIEW
 
 ![Birthday Buddy App Preview](https://github.com/parthamcomp/backroads-app/blob/main/AppPreview.png?raw=true)
